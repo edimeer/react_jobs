@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "f0e5",
-      "title": "Test Job name",
-      "type": "Full-Time",
-      "location": "Batangas",
-      "description": "wawa wewe wiwi test",
-      "salary": "Under $50K",
-      "company": {
-        "name": "Me_source",
-        "description": "magandang company",
-        "contactEmail": "test@gam.com",
-        "contactPhone": "2222-222-222"
-      }
     }
   ]
 }
